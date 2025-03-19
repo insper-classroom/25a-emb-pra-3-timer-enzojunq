@@ -40,6 +40,7 @@
         "*.css": "css",
         "*.js": "javascript",
         "*.html": "html",
-        "irq.h": "c"
+        "irq.h": "c",
+        "time.h": "c"
     }
 }
